@@ -6,4 +6,4 @@ Image Matching using old school techniques. Took images from Grozi dataset http:
 Used RANSAC to match product images and calculated accuracy of the traditional local features method.
 Used pretrained neural network(Superpoint) to match local images.
 ## Superpoint is a research project at Magic Leap. The SuperPoint network is a fully convolutional deep neural network trained to detect interest points and compute their accompanying descriptors. The detected points and descriptors can thus be used for various image-to-image matching tasks.
-![hp-v_200](doc/MatchingPointsSuperpoint.png)
+![](MatchingPointsSuperpoint.png)
